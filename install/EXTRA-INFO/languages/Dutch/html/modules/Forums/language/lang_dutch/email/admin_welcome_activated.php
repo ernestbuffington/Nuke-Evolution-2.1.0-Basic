@@ -1,0 +1,37 @@
+<?php
+/*=======================================================================
+ Nuke-Evolution   :   Enhanced Web Portal System
+ ========================================================================
+
+ Nuke-Evo Base          :   Basic
+ Nuke-Evo Version       :   2.1.0
+ Nuke-Evo Build         :   1740
+ Nuke-Evo Patch         :   0
+ Nuke-Evo Filename      :   #$#FILENAME
+ Nuke-Evo Date          :   10-Aug-2010 23:10
+
+ Copyright (c) 2010 by The Nuke Evolution Development Team
+ ========================================================================
+
+ LICENSE INFORMATIONS COULD BE FOUND IN COPYRIGHTS.PHP WHICH MUST BE
+ DISTRIBUTED WITHIN THIS MODULEPACKAGE OR WITHIN FILES WHICH ARE
+ USED FROM WITHIN THIS PACKAGE.
+ IT IS "NOT" ALLOWED TO DISTRIBUTE THIS MODULE WITHOUT THE ORIGINAL
+ COPYRIGHT-FILE.
+ ALL INFORMATIONS ABOVE THIS SECTION ARE "NOT" ALLOWED TO BE REMOVED.
+ THEY HAVE TO STAY AS THEY ARE.
+ IT IS ALLOWED AND SHOULD BE DONE TO ADD ADDITIONAL INFORMATIONS IN
+ THE SECTIONS BELOW IF YOU CHANGE OR MODIFY THIS FILE.
+
+/*****[CHANGES]**********************************************************
+-=[Base]=-
+-=[Mod]=-
+ ************************************************************************/
+
+if(!defined('NUKE_EVO')) { die('It\'s not allowed to access this file directly'); }
+
+$langemail['german']['EmailSubject'] = 'Account is geactiveerd op '.EVO_SERVER_SITENAME;
+$langemail['german']['Hello']   = 'Hallo';
+$langemail['german']['Part1']   = 'Uw account op '.EVO_SERVER_SITENAME.' werd zojuist geactiveerd. U kunt nu met uw gebruikersnaam en uw wachtwoord inloggen.<br />Deze gegevens heeft al via de mail ontvangen.';
+
+?>

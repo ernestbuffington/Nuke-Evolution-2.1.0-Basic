@@ -1,0 +1,52 @@
+ACHTUNG: Die folgende Datenschutzrichtlinie ist nur ein Beispiel daf&uuml;r, was Du in diese Textdatei einf&uuml;gen kannst.<br />
+Bitte lies diese Zeilen genau durch und passe sie f&uuml;r Deine Homepage entsprechend an.<br />
+Du findest diese Textdatei unter: modules/Docs/documents/privacy-german.txt<br /><br />
+<strong>Datenschutz</strong><br /><br />
+Datenschutzerkl&auml;rung<br />
+  Der Schutz und die Sicherheit Ihrer pers&ouml;nlichen Daten sind dem Webmaster ein ernstes Anliegen. Wir verarbeiten deshalb personenbezogene Daten, die beim Besuch unserer Webseiten erhoben werden, ausschlie&szlig;lich gem&auml;&szlig; den Bestimmungen der allgemeinen Datenschutzgesetze.<br /><br />
+1. Einwilligung<br /><br />
+Mit der Eingabe Ihrer pers&ouml;nlichen Daten willigen Sie ein, dass wir Ihre personenbezogenen Daten zur Durchf&uuml;hrung und Abwicklung der von Ihnen gew&auml;hlten Informationsdienste sowie zu den weiteren angegebenen Zwecken (siehe Ziff. 2, 3 und 6) verarbeiten und nutzen. Sie haben das Recht, Ihre Einwilligung jederzeit f&uuml;r die Zukunft zu widerrufen. Soweit Ihre Daten jedoch zur Abwicklung bereits bestellter Dienste oder Waren ben&ouml;tigt werden, sind wir berechtigt, Ihre Daten hierf&uuml;r zu verwenden.<br />
+  Der Webmaster fragt nur nach ganz bestimmten Typen personenbezogener Daten und verwendet die Daten auschlie&szlig;lich zweckgebunden<br />
+  Auf einigen Webseiten und zur Online-Unterst&uuml;tzung der Kunden werden Sie nach Informationen gefragt, die wir ben&ouml;tigen, wenn Sie<br />
+  sich als Kunde registrieren lassen<br />
+  eine Bestellung aufgeben<br />
+  online eine R&uuml;ckmeldung geben<br />
+  an einem Werbeangebot oder einem Test teilnehmen<br />
+  eine e-mail-R&uuml;ckantwort w&uuml;nschen oder<br />
+  einen Newsletter abonnieren, sich in eine Mailing-Liste eintragen wollen etc.<br />
+  In diesen und anderen F&auml;llen ben&ouml;tigen wir Ihren Namen, e-mail-Adresse, Telefon-Nr., Anschrift und Gesch&auml;ftszweig. Weitere pers&ouml;nliche Informationen erfragen wir, wenn Sie z.B. sich registrieren lassen oder Dienste abonnieren wollen. Diese Angaben zu Ihrer Person oder Bestellung werden ausschlie&szlig;lich f&uuml;r den jeweiligen Zweck verwendet, zu dem Sie uns die Daten mitgeteilt haben. Das schlie&szlig;t ein, dass Ihre Daten, soweit erforderlich, an Vertriebs- und Vertragspartner dem Webmaster weitergegeben werden, damit bestellte Dienste erbracht und technische Unterst&uuml;tzung gew&auml;hrt werden kann.<br />
+  Im &uuml;brigen werden Ihre Daten aber nicht ohne Ihre Einwilligung an Dritte f&uuml;r deren Marketing- oder sonstige Gesch&auml;ftszwecke gegeben oder verkauft.<br />
+  Falls Sie einen Newsletter abonniert oder sich in eine Mailing-Liste eingetragen haben, k&ouml;nnen Sie die Registrierung jederzeit wieder r&uuml;ckg&auml;ngig machen.<br />
+&Uuml;ber anonyme / pseudonyme Zahlungs- und Bestellverfahren werden wir Sie rechtzeitig unterrichten, sobald diese installiert sind.<br /><br />
+2. Log Files, Cookies<br /><br />
+Wir benutzen Log Files mit den IP-Adressen unserer Kunden ausschlie&szlig;lich, um<br /><br />
+a) basisdemografische Information &uuml;ber die Gesamtnutzung sammeln,<br />
+  b) die generelle Benutzung unserer Seiten analysieren,<br />
+  c) im St&ouml;rungsfalle die Dialoge unserer Kunden nachvollziehen zu k&ouml;nnen und<br />
+  d) auf besondere Anforderung des Kunden eine IP-Authentifizierung durchzuf&uuml;hren; dazu werden die IP-Adressen nach Domain-Zugeh&ouml;rigkeit, d.h. nach Lokalisierung in einem Netzsegment, jedoch nicht nach Zuordnung zu Einzelrechnern erfasst, es sei denn der Kunde w&uuml;nscht ausdr&uuml;cklich eine weitergehende Identifizierung der Nutzer, indem er zuvor die Zuordnung der IP-Adressen und Nutzer preisgibt.<br />
+  Der Kunde wird von uns nicht identifiziert und sein individuelles Benutzerverhalten nicht ermittelt. In den beiden zuletzt genannten F&auml;llen c) und d) erfolgt eine Datenanalyse nur mit Einwilligung des Kunden. Dar&uuml;ber hinaus werten wir die IP-Adressen unserer Kunden nicht aus.<br />
+  Soweit wir Cookies verwenden, speichern diese Daten des kommunizierenden Rechners (Nutzer-PC), die f&uuml;r die benutzerfreundliche Nutzung unserer Dienste unerl&auml;sslich sind. Werden Cookies vom kommunizierenden Rechner abgelehnt, stehen einige ausgew&auml;hlte Funktionen des Systems nicht zur Verf&uuml;gung.<br /><br />
+3. Webseiten Dritter<br /><br />
+Bitte beachten Sie, dass Webseiten anderer Anbieter, zu denen Sie &uuml;ber unsere Webseiten gelangen, pers&ouml;nliche Daten von Ihnen anfordern k&ouml;nnen. Die Datenschutzerkl&auml;rung erstreckt sich nicht auf die Webseiten dieser Anbieter. Der Wechsel auf die Webseiten Dritter ist von uns erkennbar gestaltet (Kennzeichnung des weiterf&uuml;hrenden Links, &Ouml;ffnung eines neuen Fensters mit der URL-Adresse des Anbieters). Handeln Sie im eigenen Interesse sorgf&auml;ltig und verantwortlich, wenn Sie online sind und achten Sie darauf, dass Ihr Passwort oder Ihre Kundeninformationen nicht unbefugten Dritten zug&auml;nglich sind.<br /><br />
+4. Datensicherheit<br /><br />
+Die Webseiten des Webmasters sind durch Sicherheitsma&szlig;nahmen gegen Verlust, Missbrauch oder unbefugte &Auml;nderungen gesch&uuml;tzt. Wir sind ferner bestrebt, Ihre pers&ouml;nlichen Daten nach den Vorschriften der einschl&auml;gigen Datenschutzgesetze bestm&ouml;glich zu sch&uuml;tzen. Der Webmaster kann jedoch die Sicherheit Ihrer an uns &uuml;bermittelten Daten nicht in jedem Falle gew&auml;hrleisten. Die Daten&uuml;bermittlung geschieht vielmehr auf Ihr Risiko.<br /><br />
+5. Berichtigungen, Aktualisierungen und Wahlm&ouml;glichkeiten<br /><br />
+Sollten Sie Fehler in den personenbezogenen Daten, die Sie dem Webmaster zur Verf&uuml;gung gestellt haben, entdecken, k&ouml;nnen Sie uns per e-mail (info[@] einemail.de) oder schriftlich an nachfolgende Adresse &uuml;ber die erforderlichen &Auml;nderungen informieren:<br /><br />
+Webmaster<br />
+  Strasse<br />
+  Ort<br />
+  Deutschland<br />
+  E-Mail: info[@] einemail.de<br />
+  Au&szlig;erdem k&ouml;nnen Sie w&auml;hlen, ob Sie per e-mail gelegentlich von uns &uuml;ber unsere Produkte und Dienstleistungen informiert werden m&ouml;chten. Wenn Sie dies nicht mehr w&uuml;nschen, k&ouml;nnen Sie eine e-mail &uuml;ber unser Kontakt Formular (bitte vergessen Sie nicht Ihren Namen und e-mail-Adresse) bekannt geben.<br /><br />
+6. Sonstige Fragen<br /><br />
+Wenn Sie weitere Fragen zu dieser Datenschutzerkl&auml;rung, zu Ihren bei uns gespeicherten pers&ouml;nlichen Daten, zu unseren Webseiten oder zu deren Benutzung haben, wenden Sie sich bitte an:<br /><br />
+Webmaster<br />
+  Strasse<br />
+  Ort<br />
+  Deutschland<br />
+  E-Mail: info[@] einemail.de<br /><br />
+
+<br />
+<p style="text-align: right;">Datenschutz Copyright by Robert Schilken <br />
+<a href="http://www.dotcom-agentur.de">Dotcom Agentur</a>
+</p>

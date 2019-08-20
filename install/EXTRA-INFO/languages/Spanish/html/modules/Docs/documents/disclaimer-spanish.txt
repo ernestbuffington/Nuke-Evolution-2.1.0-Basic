@@ -1,0 +1,13 @@
+Este es un ejemplo de lo que puede agregar en este archivo de texto. Puede agregar nada que le gusta, al igual que un documento HTML normal. Poner en vinculos, romper espacios, tablas, etc.. No se preocupe por cotizaciones o punto y coma. Tipo justo lo que desea, guardarla, cargarlo, y tendra su custom sobre nosotros pagina. Borrar todos esta informacion y escriba en lo que quiera.<br />
+Usted puede encontrar este archivo esta ubicado en modules/Docs/documents/<br /><br />
+El propietario o editor de este sitio web<br />
+- no es responsable de alguno de los articulos, comentarios, comentarios o nombres de usuario, como el cartel del articulo particular, el comentario, la revision o el nombre de usuario asume plena responsabilidad.<br />
+- renuncia a cualquier y todos la responsabilidad o la responsabilidad por la precision, contenido, integridad, legalidad, fiabilidad, operabilidad o disponibilidad de informacion o material que se muestra en este sitio.<br />
+- renuncia a ninguna responsabilidad por los daños resultantes de la descarga o acceso a cualquier informacion o material en este sitio Web.<br />
+- expresamente declina hasta el maximo permitido por la ley toda garantia expresa, implicita y legal.<br />
+- renuncia a cualquier garantias para los servicios o productos recibidos a traves de o anunciado en este sitio Web.<br />
+Este sitio Web contiene vinculos a otros sitios de Internet. Estos vinculos se ofrecen unicamente como una conveniencia a usted y no son ratificaciones de los productos o servicios en esos sitios, y no hay informacion en ese sitio ha sido respaldado o aprobado.<br />
+Estos sitios de terceros tambien pueden contener opiniones y puntos de vista de terceros que no coinciden necesariamente con nuestras opiniones y puntos de vista. Dichos sitios tambien pueden tener politicas de privacidad diferentes de nuestra politica de privacidad.<br />
+Todos los materiales, informacion, productos y servicios incluidos en este sitio Web se proporcionan como es, con <strong>Sin garantias</strong> alguna.<br />
+<br />
+Todo los logotipo e imagenes son propiedad de propietario respetuoso sus.<br />

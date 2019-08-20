@@ -1,0 +1,146 @@
+#SexyAlertBox-Box {
+    padding-bottom: 24px;
+    background: url(/includes/javascript/sexyscript/images/bg-box-bottom.png) bottom left no-repeat;
+}
+#SexyAlertBox-InBox {
+    padding-top: 15px;
+    background: url(/includes/javascript/sexyscript/images/bg-box-top.png) top left no-repeat;
+}
+#SexyAlertBox-BoxContent {
+    background: url(/includes/javascript/sexyscript/images/bg-box-body.png) top left repeat-y;
+    padding: 0px 20px;
+}
+#SexyAlertBox-BoxContenedor {
+    padding: 0px 0px 5px 55px;
+    text-align: left;
+    font-family:Verdana;
+    font-size:12px;
+    color:#000;
+}
+#SexyAlertBox-BoxContenedor h1,#SexyAlertBox-BoxContenedor h2,#SexyAlertBox-BoxContenedor h3,#SexyAlertBox-BoxContenedor b,#SexyAlertBox-BoxContenedor strong{
+    text-align: left;
+    font-family:Verdana;
+    font-size:12px;
+    color:#000;
+    font-weight:bold;
+    margin:0px;
+    padding:0px;
+}
+#SexyAlertBox-Buttons{
+    text-align:right;
+}
+#SexyAlertBox-Buttons input {
+    margin: 10px 10px;
+}
+#SexyAlertBox-BoxContenedor #BoxPromptInput{
+    margin-top:5px;
+}
+#SexyAlertBox-Box .BoxAlert {
+    background: url(/includes/javascript/sexyscript/images/dialog-warning.png) top left no-repeat;
+}
+#SexyAlertBox-Box .BoxConfirm {
+    background: url(/includes/javascript/sexyscript/images/dialog-help.png) top left no-repeat;
+}
+#SexyAlertBox-Box .BoxPrompt {
+    background: url(/includes/javascript/sexyscript/images/dialog-help.png) top left no-repeat;
+}
+#SexyAlertBox-Box .BoxInfo {
+    background: url(/includes/javascript/sexyscript/images/dialog-information.png) top left no-repeat;
+}
+#SexyAlertBox-Box .BoxError {
+    background: url(/includes/javascript/sexyscript/images/dialog-error.png) top left no-repeat;
+}
+#SexyAlertBox-Box .BoxDone {
+    background: url(/includes/javascript/sexyscript/images/dialog-done.png) top left no-repeat;
+}
+.alert h1 {
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-size:1em;
+    font-weight:bold;
+    padding-left:18px;
+    background: url(/includes/javascript/sexyscript/images/alert.png) no-repeat left center;
+    color:#000;
+    margin:0 0 8px 0;
+}
+.alert p {
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-size:0.9em;
+    font-weight:normal;
+    color:#000;
+    margin:0;
+    padding:0 0 8px 0;
+    line-height:14px;
+}
+.alert img {
+    vertical-align: top;
+}
+.info h1 {
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-size:1em;
+    font-weight:bold;
+    padding-left:18px;
+    background: url(/includes/javascript/sexyscript/images/dialog-information-small.png) no-repeat left center;
+    color:#000;
+    margin:0 0 8px 0;
+}
+.info p {
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-size:0.9em;
+    font-weight:normal;
+    color:#000;
+    margin:0;
+    padding:0 0 8px 0;
+    line-height:14px;
+}
+.info img {
+    vertical-align: top;
+}
+.wiki h1{
+    background:#C4D5E3 url(/includes/javascript/sexyscript/images/wikiTitle.png) no-repeat scroll 0% 50%;
+    padding:5px 0px 5px 80px;
+    border:1px solid #C4D5E3;
+    font-weight:bold;
+    clear: both;
+    font-size: 12px;
+    color: #000;
+    margin: 0 0 8px 0;
+}
+.wiki p {
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+    font-size:0.8em;
+    font-weight:normal;
+    color:#000;
+    margin:0;
+    padding:0 0 8px 0;
+    line-height:1.2em;
+}
+.wiki .thumbcaption{
+    font-size:10px;
+}
+.wiki .thumbinner{
+    background:#D6E6FE;
+    margin:4px auto;
+    text-align:center;
+    padding:5px;
+    border:dashed #CCCCCC 1px;
+}
+.msn {
+      opacity:0.90;
+}
+.msn h1 {
+    font-size:1.1em;
+    padding-left:18px;
+    background: url(/includes/javascript/sexyscript/images/msn.gif) no-repeat left center;
+    color:#333333;
+    margin:0 0 8px 0;
+}
+.msn p {
+    margin:0;
+    padding:8px 0 8px 0;
+    line-height:14px;
+}
+.msn img {
+    float: left;
+    margin-right:6px;
+    padding-bottom:12px
+}

@@ -1,0 +1,10 @@
+This is an example of what you can add in this text file. You can add anything you like, just like a normal HTML document. Put in links, breaking spaces, tables, etc. Don't worry about quotes or semi-colons. Just type what you want, save it, upload it, and you have your custom about us page. Erase all this info, and type in whatever you want.<br />
+You can find this file located under modules/Docs/documents/<br /><br />
+<strong>Imprint</strong><br />
+This website is published by:<br /><br />
+Your Name,<br />
+Address<br />
+Phone: 0123 - 45678<br />
+Fax: 0123 - 45679<br />
+Mobile: 0177 - 123456<br />
+Email<br />

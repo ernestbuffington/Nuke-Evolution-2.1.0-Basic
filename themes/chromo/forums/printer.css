@@ -1,0 +1,195 @@
+/* Printer Form Style */
+
+/* Import the fancy styles for IE only (NS4.x doesn't use the @import function)
+/* NOTE: This needs to be the first line which gets executed for proper W3C validation!*/
+@import url(formIE.css) print;
+
+body {
+background-color : white;
+}
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle {
+font-weight : bold;
+font-size : 22px;
+font-family : "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+text-decoration : none;
+line-height : 120%;
+/*color : white;*/
+}
+
+/* General text */
+.gen {
+font-size : 12px;
+}
+.genmed {
+font-size : 11px;
+}
+.gensmall {
+font-size : 10px;
+}
+.gen, .genmed, .gensmall {
+color : black;
+}
+a.gen, a.genmed, a.gensmall {
+color : black;
+text-decoration : none;
+}
+a.gen:hover, a.genmed:hover, a.gensmall:hover {
+/*color : white;*/
+text-decoration : underline;
+}
+
+/* Forum category titles */
+.cattitle {
+font-weight : bold;
+font-size : 12px;
+letter-spacing : 1px;
+color : black;
+}
+a.cattitle {
+text-decoration : none;
+color : black;
+}
+a.cattitle:hover {
+text-decoration : underline;
+}
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink {
+font-weight : bold;
+font-size : 12px;
+color : black;
+}
+a.forumlink {
+text-decoration : none;
+color : black;
+}
+a.forumlink:hover {
+text-decoration : underline;
+color : black;
+}
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav {
+font-weight : bold;
+font-size : 11px;
+color : black;
+}
+a.nav {
+text-decoration : none;
+color : black;
+}
+a.nav:hover {
+text-decoration : underline;
+}
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle {
+font-weight : bold;
+font-size : 11px;
+color : black;
+}
+a.topictitle:link {
+text-decoration : none;
+color : black;
+}
+a.topictitle:visited {
+text-decoration : none;
+color : black;
+}
+a.topictitle:hover {
+text-decoration : underline;
+/*color : white;*/
+}
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name {
+font-size : 11px;
+color : black;
+}
+
+/* Location, number of posts, post date etc */
+.postdetails {
+font-size : 10px;
+color : black;
+}
+
+/* The content of the posts (body of text) */
+.postbody {
+font-size : 12px;
+line-height : 18px;
+}
+a.postlink:link {
+text-decoration : none;
+color : black;
+}
+a.postlink:visited {
+text-decoration : none;
+color : black;
+}
+a.postlink:hover {
+text-decoration : underline;
+/*color : white;*/
+}
+
+/* Quote & Code blocks */
+.code {
+font-family : Courier, "Courier New", sans-serif;
+font-size : 11px;
+color : black;
+background-color : white;
+border : black;
+border-style : solid;
+border-left-width : 1px;
+border-top-width : 1px;
+border-right-width : 1px;
+border-bottom-width : 1px;
+}
+
+.quote {
+font-family : Verdana, Arial, Helvetica, sans-serif;
+font-size : 11px;
+color : black;
+line-height : 125%;
+background-color : white;
+border : black;
+border-style : solid;
+border-left-width : 1px;
+border-top-width : 1px;
+border-right-width : 1px;
+border-bottom-width : 1px;
+}
+
+/* Copyright and bottom info */
+.copyright {
+font-size : 10px;
+font-family : Verdana, Arial, Helvetica, sans-serif;
+color : black;
+letter-spacing : -1px;
+}
+a.copyright {
+color : black;
+text-decoration : none;
+}
+a.copyright:hover {
+color : #000000;
+text-decoration : underline;
+}
+
+/* The text input fields background colour */
+input.post, textarea.post, select {
+background-color : white;
+}
+input {
+text-indent : 2px;
+}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)
+*/
+.helpline {
+background-color : #00ffff;
+border-style : none;
+}

@@ -1,0 +1,13 @@
+This is an example of what you can add in this text file. You can add anything you like, just like a normal HTML document. Put in links, breaking spaces, tables, etc. Don't worry about quotes or semi-colons. Just type what you want, save it, upload it, and you have your custom about us page. Erase all this info, and type in whatever you want.<br />
+You can find this file located under modules/Docs/documents/<br /><br />
+The owner or publisher of this Website<br />
+- is not responsible for any of the Articles, Comments, Reviews, or User Names, as the poster of the particular Article, Comment, Review, or User Name assumes full responsibility.<br />
+- disclaims any and all responsibility or liability for the accuracy, content, completeness, legality, reliability, operability, or availability of information or material displayed on this site.<br />
+- disclaims any responsibility for any harm resulting from downloading or accessing any information or material on this website.<br />
+- expressly disclaims to the fullest extent permitted by law all express, implied, and statutory warranties.<br />
+- disclaims any warranties for services or goods received through or advertised on this Website.<br />
+This Website contains links to other Internet sites. These links are provided solely as a convenience to you and are not endorsements of any products or services in such sites, and no information in such site has been endorsed or approved.<br />
+These third party sites may also contain opinions and viewpoints of third parties that do not necessarily coincide with our opinions and viewpoints. Those sites may also have privacy policies different than our own privacy policy.<br />
+All materials, information, products & services included on this Website are provided AS IS, with <strong>no warranties</strong> whatsoever.<br />
+<br />
+All Logo's and Images are property of thier respectful owner.<br />

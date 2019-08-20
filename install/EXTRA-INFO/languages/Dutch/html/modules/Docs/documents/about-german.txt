@@ -1,0 +1,20 @@
+ACHTUNG: Das folgende Impressum ist nur ein Beispiel daf&uuml;r, was Du in diese Textdatei einf&uuml;gen kannst.<br />
+Bitte lies diese Zeilen genau durch und passe sie f&uuml;r Deine Homepage entsprechend an.<br />
+Du findest diese Textdatei unter: modules/Docs/documents/about-german.txt<br /><br />  
+
+<strong>Impressum</strong><br />
+Impressum gem&auml;&szlig; &sect;5 Telemediengesetzes (TMG) und &sect;54 Staatsvertrag f&uuml;r Rundfunk und Telemedien (RSTV)<br /><br /> 
+Verantwortlicher Redakteur und Webmaster f&uuml;r die Planung, Realisierung und Betreuung der Internetinhalte sowie f&uuml;r die Administration dieser Domain (Admin-c) ist:<br />
+<br /><br />  
+Dein Name,<br />
+Deine Strasse und Nr.<br />
+PLZ Stadt<br />
+Telefon: 0123 - 45678<br />
+Telefax: 0123 - 45679<br />
+Mobil: 0177 - 123456<br />
+Email
+
+<br />
+<p style="text-align: right;" >Impressum Copyright by Robert Schilken <br />
+<a href="http://www.dotcom-agentur.de">Dotcom Agentur</a>
+</p>

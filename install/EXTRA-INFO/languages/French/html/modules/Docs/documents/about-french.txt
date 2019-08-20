@@ -1,0 +1,10 @@
+Ceci est un exemple de ce que vous pouvez ajouter dans ce fichier texte. Vous pouvez ajouter ce que vous voulez, comme un document HTML normal. Mettre en liens, la rupture des espaces, tableaux, etc Ne vous préoccupez pas des citations ou des points-virgules. Il suffit de taper ce que vous voulez, l'enregistrer, l'envoyer, et vous avez votre personnalisé au sujet de nous page. Effacer toutes ces informations, et tapez ce que vous voulez.<br />
+Vous pouvez trouver ce fichier sous modules./Docs/documents/<br /><br />
+<strong>Imprint</strong><br />
+Ce site est édité par:<br /><br />
+Ce site est édité parotre nom,<br />
+Adresse<br />
+Téléphone: 012345678<br />
+Fax: 012345679<br />
+Mobile: 0177123456<br />
+Email<br />

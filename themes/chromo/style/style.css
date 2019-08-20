@@ -1,0 +1,914 @@
+/* Chromo Style.css */
+
+bottom {
+z-index : 2;
+left : 0;
+width : 100%;
+position : absolute;
+top : 594px;
+height : 30px;
+text-align : center;
+}
+
+a:link {
+font-size : 11px;
+color : #000000;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+text-decoration : none;
+}
+a:visited {
+font-size : 11px;
+color : #000000;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+text-decoration : none;
+}
+a:active {
+font-size : 11px;
+color : #000000;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+text-decoration : none;
+}
+a:hover {
+font-size : 11px;
+color : #000000;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+text-decoration : none;
+}
+body {
+margin : 0;
+font-size : 12px;
+cursor : default;
+color : #000000;
+background-color : #f0f0f0;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+text-decoration : none;
+}
+p {
+font-size : 12px;
+background : inherit;
+color : #000000;
+line-height : 1.4;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+text-decoration : none;
+}
+
+/* Forums Navi */
+ul#forumsnavigation{
+margin: 0; padding: 0.8em;
+text-align: center;
+}
+
+ul#forumsnavigation li{
+list-style: none;
+display: inline;
+margin: 0.2em; padding: 0;
+white-space:nowrap;
+}
+
+ul#forumsnavigation li a{
+background-color: transparent;
+}
+
+ul#forumsnavigation li a:hover{
+background-color: transparent;
+}
+/* End Forums Navi
+
+/* Changes colors for: Main Menu Block, Table Box, Story Box */
+table, table th, table body, table tr, table td, tbody tr, tbody td {
+border: 0px solid;
+}
+
+table {
+font-size : 11px;
+color : #000000;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+text-decoration : none;
+}
+td.content {
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+font-size : 12px;
+color : #000000;
+background-color : #5c5d61;
+text-decoration : none;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+td.extra {
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+td.extras {
+background : #f0f0f0;
+color : inherit;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+td.extrafoot {
+background : #f0f0f0;
+color : inherit;
+border-right : 1px solid #ffffff;
+border-top : 1px solid #707070;
+border-bottom : 1px solid #ffffff;
+border-left : 1px solid #707070;
+}
+td.story {
+background : #f0f0f0;
+color : #000000;
+font-size : 11px;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+hr {
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+background-color : transparent;
+height : 2px;
+width : 94%;
+}
+ul {
+list-style-type : square;
+}
+.center {
+text-align : center;
+}
+.justify {
+text-align : justify;
+}
+.right {
+text-align : right;
+}
+h1 {
+font-weight : bold;
+font-size : 12px;
+background : inherit;
+color : #000000;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+letter-spacing : 0;
+text-decoration : none;
+}
+.heading {
+font-weight : bold;
+font-size : 12px;
+background : inherit;
+color : #000000;
+font-family : Tahoma, sans-serif;
+letter-spacing : 0;
+text-decoration : none;
+}
+.heading1 {
+font-weight : bold;
+font-size : 12px;
+background : inherit;
+color : #000000;
+font-family : Tahoma, sans-serif;
+letter-spacing : 0;
+text-decoration : none;
+}
+.fade {
+font-weight : bold;
+font-size : 10px;
+background : inherit;
+color : #000000;
+font-family : Tahoma, sans-serif;
+letter-spacing : 0;
+text-decoration : none;
+}
+.user {
+font-weight : bold;
+font-size : 10px;
+background : inherit;
+color : #000000;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+letter-spacing : 0;
+text-decoration : none;
+}
+img {
+border-right : none;
+border-top : none;
+border-left : none;
+border-bottom : none;
+/*vertical-align : middle;   do not work with Internet Explorer 5-8 */
+}
+img.work {
+border-right : 1px solid #ffffff;
+border-top : 1px solid #ffffff;
+border-left : 1px solid #ffffff;
+border-bottom : 1px solid #ffffff;
+}
+img.lightbox {
+border-right : 2px dotted #000000;
+border-top : 2px dotted #000000;
+border-left : 2px dotted #000000;
+border-bottom : 2px dotted #000000;
+}
+.error {
+color : #ffffff;
+background-color : #6a0000;
+}
+.fheader {
+font-size : 12px;
+font-weight : bold;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+text-decoration : none;
+}
+a.fheader {
+background : inherit;
+color : #666666;
+}
+a.fheader:visited {
+background : inherit;
+color : #666666;
+}
+a.fheader:hover {
+background : inherit;
+color : #6a0000;
+}
+
+/* This is the border line & background colour round the entire page */
+.bodyline {
+background-color : #f0f0f0;
+color : inherit;
+border : 1px solid;
+border-color : #707070;
+}
+
+/* This is the outline round the main forum tables */
+.forumline {
+background-color : #868686;
+color : inherit;
+border : 1px solid;
+border-color : #5c5d60;
+}
+td.attachrow {
+font-size : 11px;
+font-weight : normal;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+color : #000000;
+border-color : #000000;
+}
+td.attachheader {
+font-size : 11px;
+font-weight : normal;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+color : #000000;
+border-color : #000000;
+background-color : #eaebeb;
+}
+table.attachtable {
+font-size : 12px;
+font-weight : normal;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+color : #000000;
+border-color : #000000;
+border-collapse : collapse;
+}
+table.posting {
+font-size : 11px;
+font-weight : normal;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+background : #eee;
+border-color : #c0c0c0;
+border-collapse : collapse;
+}
+table.postingInside {
+font-size : 11px;
+font-weight : normal;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+background : #ffffff;
+}
+table.rebuild {
+font-size : 11px;
+font-weight : normal;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+background : #ffffff;
+border-right : 1px solid black;
+border-left : 1px solid black;
+border-top : 1px solid black;
+border-bottom : 1px solid black;
+}
+
+/* Main table cell colours and backgrounds */
+td.row1 {
+background : #e0e0e0;
+color : inherit;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+td.row2 {
+background : #e0e0e0;
+color : inherit;
+border-right : 1px solid #868686;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #868686;
+border-left : 1px solid #ffffff;
+}
+ /* row2 for bbcode Editor Images */
+td.row2bbcode {
+background : #e0e0e0;
+color : inherit;
+text-align:left;
+border-right : 1px solid #868686;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #868686;
+border-left : 1px solid #ffffff;
+}
+/* End row2 for bbcode Editor Images */
+td.row3 {
+background : #e0e0e0;
+color : inherit;
+border-right : 1px solid #707070;
+border-top : 1px solid #cccccc;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #cccccc;
+}
+td.rowlt {
+border-right : 1px solid #cdcdcd;
+border-top : 1px solid #b7b7b7;
+border-bottom : 1px solid #b7b7b7;
+border-left : 1px solid #b7b7b7;
+}
+td.rowrt {
+border-right : 1px solid #b7b7b7;
+border-top : 1px solid #b7b7b7;
+border-bottom : 1px solid #b7b7b7;
+border-left : 1px solid #cdcdcd;
+}
+
+/* Category Row Right */
+td.rowpic {
+color : inherit;
+background : #f0f0f0;
+border-right : 1px solid #cacaca;
+border-top : 1px solid #444444;
+border-bottom : 1px solid #cacaca;
+border-left : 1px solid #444444;
+}
+
+/* Recent Topics Row*/
+th {
+color : #000000;
+font-size : 11px;
+font-weight : bold;
+height : 20px;
+background : #cccccc;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+
+/* Category Row Left */
+td.cat, td.catHead, td.catSides, td.catLeft, td.catRight, td.catBottom {
+color : inherit;
+background : #cccccc;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+height : 28px;
+}
+td.cat, td.catHead, td.catBottom {
+height : 28px;
+color : inherit;
+background : #f0f0f0;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+
+/*
+  Setting additional nice inner borders for the main table cells.
+  The names indicate which sides the border will be on.
+  Don't worry if you don't understand this, just ignore it :-)
+*/
+
+/* Recent Topics, Row1, Viewforum_Body.tpl */
+th.thHead, th.thSides, th.thTop, th.thLeft, th.thRight, th.thBottom, th.thCornerL, th.thCornerR {
+font-weight : bold;
+color : inherit;
+background : #f0f0f0;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+height : 28px;
+}
+
+/* Forum_Body.tpl - Last Column */
+td.row3Right, td.spaceRow {
+color : inherit;
+background : #f0f0f0;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+th.thHead, td.catHead {
+font-size : 12px;
+color : inherit;
+background : #f0f0f0;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+th.thSides, td.catSides, td.spaceRow {
+color : inherit;
+background : #f0f0f0;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+th.thRight, td.catRight, td.row3Right {
+color : inherit;
+background : #f0f0f0;
+border-right : 1px solid #ffffff;
+border-top : 1px solid #444444;
+border-bottom : 1px solid #ffffff;
+border-left : 1px solid #444444;
+}
+th.thLeft, td.catLeft {
+color : inherit;
+background : #f0f0f0;
+border-right : 1px solid #cacaca;
+border-top : 1px solid #444444;
+border-bottom : 1px solid #cacaca;
+border-left : 1px solid #444444;
+}
+th.thBottom, td.catBottom {
+color : inherit;
+background : #cccccc;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+th.thTop {
+color : inherit;
+background : #cccccc;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+th.thCornerL {
+color : inherit;
+background : #cccccc;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+th.thCornerR {
+color : inherit;
+background : #cccccc;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+
+/* The largest text used in the index page title and toptic title etc. */
+.maintitle, h1, h2 {
+font-weight : bold;
+font-size : 22px;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+text-decoration : none;
+line-height : 120%;
+background : inherit;
+color : #000000;
+}
+
+/* General text */
+.gen {
+font-size : 12px;
+}
+.genmed {
+font-size : 11px;
+}
+.gensmall {
+font-size : 10px;
+}
+.gen, .genmed, .gensmall {
+background : inherit;
+color : #000000;
+}
+a.gen, a.genmed, a.gensmall {
+background : inherit;
+color : #000000;
+text-decoration : none;
+}
+a.gen:hover, a.genmed:hover, a.gensmall:hover {
+background : inherit;
+color : #6a0000;
+text-decoration : none;
+}
+
+/* The register, login, search etc links at the top of the page */
+.mainmenu {
+font-size : 11px;
+background : inherit;
+color : #000000;
+}
+a.mainmenu {
+text-decoration : none;
+background : inherit;
+color : #000000;
+}
+a.mainmenu:hover {
+text-decoration : none;
+background : inherit;
+color : #bbbbbb;
+}
+
+/* Forum category titles */
+.cattitle {
+font-weight : bold;
+font-size : 12px;
+letter-spacing : 0;
+background : inherit;
+color : #000000;
+}
+a.cattitle {
+text-decoration : none;
+background : inherit;
+color : #000000;
+}
+a.cattitle:hover {
+text-decoration : none;
+background : inherit;
+color : #f29702;
+}
+
+/* Forum title: Text and link to the forums used in: index.php */
+.forumlink {
+font-weight : bold;
+font-size : 12px;
+background : inherit;
+color : #000000;
+}
+a.forumlink {
+text-decoration : none;
+background : inherit;
+color : #000000;
+}
+a.forumlink:hover {
+text-decoration : none;
+background : inherit;
+color : #6a0000;
+}
+
+/* Used for the navigation text, (Page 1,2,3 etc) and the navigation bar when in a forum */
+.nav {
+font-weight : bold;
+font-size : 11px;
+background : inherit;
+color : #000000;
+}
+a.nav {
+text-decoration : none;
+background : inherit;
+color : #6a0000;
+}
+a.nav:hover {
+text-decoration : none;
+background : inherit;
+color : #f29702;
+}
+
+/* titles for the topics: could specify viewed link colour too */
+.topictitle {
+font-weight : bold;
+font-size : 11px;
+background : inherit;
+color : #000000;
+}
+a.topictitle:link {
+text-decoration : none;
+background : inherit;
+color : #000000;
+}
+a.topictitle:visited {
+text-decoration : none;
+background : inherit;
+color : #000000;
+}
+a.topictitle:hover {
+text-decoration : none;
+background : inherit;
+color : #6a0000;
+}
+
+/* Name of poster in viewmsg.php and viewtopic.php and other places */
+.name {
+font-size : 11px;
+background : inherit;
+color : #000000;
+}
+
+/* Location, number of posts, post date etc */
+.postdetails {
+font-size : 10px;
+background : inherit;
+color : #000000;
+}
+
+/* The content of the posts (body of text) */
+.postbody {
+font-size : 12px;
+}
+a.postlink:link {
+text-decoration : none;
+background : inherit;
+color : #000000;
+}
+a.postlink:visited {
+text-decoration : none;
+background : inherit;
+color : #000000;
+}
+a.postlink:hover {
+text-decoration : none;
+background : inherit;
+color : #6a0000;
+}
+
+/* Quote & Code blocks */
+.code {
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size : 11px;
+color : #5b5b5b;
+background : #ffffff;
+border-right : 1px dashed #707070;
+border-top : 1px dashed #707070;
+border-bottom : 1px dashed #707070;
+border-left : 1px dashed #707070;
+}
+.quote {
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size : 11px;
+color : #5b5b5b;
+background : #d4d0c8;
+border-right : 1px solid #ffffff;
+border-top : 1px solid #707070;
+border-bottom : 1px solid #ffffff;
+border-left : 1px solid #707070;
+}
+
+/* Copyright and bottom info */
+.copyright {
+font-size : 10px;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+background : inherit;
+color : #000000;
+letter-spacing : 0;
+}
+a.copyright {
+background : inherit;
+color : #000000;
+text-decoration : none;
+}
+a.copyright:hover {
+color : #f0f0f0;
+background : inherit;
+text-decoration : none;
+}
+input, textarea, select {
+color : #000000;
+font-size : 11px;
+font-weight : normal;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+background : #e0e0e0;
+}
+input.post, textarea.post, select {
+color : inherit;
+background-color : #eeeeee;
+}
+input {
+text-indent : 2px;
+}
+
+/* The buttons used for bbCode styling in message post */
+input.button {
+color : #000000;
+font-size : 11px;
+font-weight : normal;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+border-right : 0px outset #707070;
+border-top : 0px outset #ffffff;
+border-bottom : 0px outset #707070;
+border-left : 0px outset #ffffff;
+background : #f0f0f0;
+}
+
+/* The main submit button option */
+input.mainoption {
+color : #000000;
+font-size : 11px;
+font-weight : normal;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+background : #f0f0f0;
+}
+
+/* None-bold submit button */
+input.liteoption {
+color : #000000;
+font-size : 11px;
+font-weight : normal;
+font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+background : #f0f0f0;
+}
+
+/* Fieldsets (used a.e. in Downloads, WebLinks, Reviews and Evo-Adminpages */
+fieldset {
+border-top : 2px solid #000000;
+border-bottom : 2px solid #000000;
+border-left : 2px solid #000000;
+border-right : 2px solid #000000;
+}
+
+.scrolltable {
+
+border-top : 1px solid #000000;
+border-bottom : 1px solid #000000;
+border-left : 1px solid #000000;
+border-right : 1px solid #000000;
+}
+
+/* This is the line in the posting page which shows the rollover
+  help line. This is actually a text box, but if set to be the same
+  colour as the background no one will know ;)*/
+.helpline {
+color : inherit;
+background-color : #cccccc;
+border-style : none;
+}
+.postimage {
+cursor : pointer;
+}
+.postimage:hover {
+background-color : #c2cfe5;
+cursor : pointer;
+}
+.blocktitle {
+background-color : #e6e6e6;
+text-align : center;
+font-weight : bold;
+}
+td.rowhc {
+background : #e0e0e0;
+color : inherit;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+td.rowhc:hover {
+background : #cccccc;
+color : inherit;
+border-right : 1px solid #707070;
+border-top : 1px solid #ffffff;
+border-bottom : 1px solid #707070;
+border-left : 1px solid #ffffff;
+}
+.textarea { overflow: auto; }
+.absmiddle {vertical-align: middle;}
+
+/* Definitionslisten (2 Spalten) */
+dl.twocolumn{
+    float:left;
+    width:320px;
+}
+dt.twocolumn, dd.twocolumn{
+    float:left;
+    width:160px;
+    margin:0;
+    padding:0;
+}
+.clear-left {
+clear: left;}
+
+/* Rotator for News */
+#NewsRotator {
+    position:relative;
+    padding:0px;
+    margin:0;
+    font-size:12px;
+    background:transparent;
+    width:100%;
+    height:100%;
+}
+
+#NewsRotator .ul.ui-tabs-nav {
+    position:absolute;
+    bottom:0px;
+    left:0;
+    z-index:1;
+    width:100%;
+    background:#fff url(/includes/javascript/rotator/images/uitabsbg.png) repeat-x bottom right;
+}
+/* Tabs */
+#NewsRotator .ul.ui-tabs-nav, .li.ui-tabs-nav-item, .li.ui-tabs-nav-item a:link, .li.ui-tabs-nav-item a:visited {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    text-decoration:none;
+    font-size:100%;
+    list-style:none;
+    float:left;
+    font-family:Arial, Helvetica, sans-serif;
+    background:transparent;
+}
+/* Non-Selected Tabs */
+#NewsRotator .li.ui-tabs-nav-item a:link,
+li.ui-tabs-nav-item a:visited {
+    font-size:.8em;
+    font-weight:bold;
+    text-transform: lowercase;
+    color:#4F4F4F;
+    background:#E6E6E6 url(/includes/javascript/rotator/images/uitabsbg.png) repeat-x bottom left;
+    border-right: solid 1px #E6E6E6;
+}
+/* Hovered Tab */
+#NewsRotator .ui-tabs-nav-item a:hover,
+#NewsRotator .ui-tabs-nav-item a:active {
+    background:transparent url(/includes/javascript/rotator/images/uiactivetabbg.png) repeat-x bottom left;
+    color:#FFF;
+}
+
+#NewsRotator .ui-tabs-nav-item a span {
+    float:left;
+    cursor:pointer;
+    padding: 0.4em;
+    background:transparent;
+    width:20px;
+    text-align:center;
+}
+
+/* Active Tab */
+#NewsRotator .ui-tabs-selected a:link,
+#NewsRotator .ui-tabs-selected a:visited,
+#NewsRotator .ui-tabs-selected a:hover,
+#NewsRotator .ui-tabs-selected a:active {
+    background:transparent url(/includes/javascript/rotator/images/uiactivetabbg.png) repeat-x bottom left;
+    color:#FFF;
+}
+
+/* Content Panels */
+#NewsRotator .ui-tabs-panel {
+    font-family:Arial, Helvetica, sans-serif;
+    clear:left;
+    color:#000;
+    padding:0px 0px 0px 0px;
+    height:95%;
+    width:100%;
+}
+
+#NewsRotator .ui-tabs-hide {
+    display:none;
+}
+
+#NewsRotator h2 {
+    color:#E75D00;
+    font-weight:normal;
+    margin:0;
+    font-size:1.6em;
+    background: none;
+}
+
+#NewsRotator h2 img {
+    margin:0;
+    background: none;
+    max-height:30px;
+}
+
+#NewsRotator p {
+    font-size:1em;
+    line-height:1.1em;
+    color:#333;
+    background: none;
+}
+/* End Rotator for News */

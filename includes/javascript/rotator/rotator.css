@@ -1,0 +1,146 @@
+/* Rotator Styles */
+
+#rotator {
+ color:#000;
+ position:relative;
+ padding-bottom:2.6em;
+ margin:0;
+ font-size:12px;
+}
+
+/* Tabs */
+ul.ui-tabs-nav, li.ui-tabs-nav-item, li.ui-tabs-nav-item a:link, li.ui-tabs-nav-item a:visited {
+ margin:0;
+ padding:0;
+ border:0;
+ outline:0;
+ line-height:1.3;
+ text-decoration:none;
+ font-size:100%;
+ list-style:none;
+ float:left;
+ font-family:Arial, Helvetica, sans-serif;
+ background:transparent;
+}
+
+ul.ui-tabs-nav {
+ position:absolute;
+ bottom:0px;
+ left:0;
+ z-index:1;
+ width:100%;
+ background:#fff url(/includes/javascript/rotator/images/uitabsbg.png) repeat-x bottom right;
+}
+
+/* Non-Selected Tabs */
+li.ui-tabs-nav-item a:link,
+li.ui-tabs-nav-item a:visited {
+ font-size:.8em;
+ font-weight:normal;
+ text-transform: lowercase;
+ color:#4F4F4F;
+ background:#E6E6E6 url(/includes/javascript/rotator/images/uitabsbg.png) repeat-x bottom left;
+ border-right: solid 1px #E6E6E6;
+ /*-webkit-border-bottom-left-radius: 5px;
+ -webkit-border-bottom-right-radius: 5px;
+ -moz-border-radius-bottomleft: 5px;
+ -moz-border-radius-bottomright: 5px;
+ border-bottom-left-radius: 5px;
+ border-bottom-right-radius: 5px;*/
+}
+
+/* Hovered Tab */
+#rotator .ui-tabs-nav-item a:hover,
+#rotator .ui-tabs-nav-item a:active {
+ background:#FFF url(/includes/javascript/rotator/images/uiactivetabbg.png) repeat-x bottom left;
+ color:#FFF;
+}
+
+#rotator .ui-tabs-nav-item a span {
+ float:left;
+ padding:1em;
+ cursor:pointer;
+}
+
+/* Active Tab */
+#rotator .ui-tabs-selected a:link,
+#rotator .ui-tabs-selected a:visited,
+#rotator .ui-tabs-selected a:hover,
+#rotator .ui-tabs-selected a:active {
+ background:#fff url(/includes/javascript/rotator/images/uiactivetabbg.png) repeat-x bottom left;
+ color:#FFF;
+}
+
+/* Content Panels */
+#rotator .ui-tabs-panel {
+ font-family:Arial, Helvetica, sans-serif;
+ clear:left;
+ color:#000;
+ padding:15px 250px 15px 15px;
+ height:225px;
+}
+
+#rotator .ui-tabs-hide {
+ display:none;
+}
+
+#rotator h2 {
+ color:#E75D00;
+ font-weight:normal;
+ margin:0;
+ font-size:1.6em;
+ line-height:1em;
+ background: none;
+}
+
+#rotator p {
+ font-size:1em;
+ line-height:1.1em;
+ color:#333;
+ background: none;
+}
+
+/* Background Images */
+#rotator #fragment-1 {
+ padding:15px 15px 15px 250px;
+ background:transparent url(/images/evo/features/cms.png) no-repeat top left;
+}
+
+#rotator #fragment-2 {
+ background:transparent url(/images/evo/features/evo_based.png) no-repeat top right;
+}
+
+#rotator #fragment-3 {
+ padding:15px 15px 15px 250px;
+ background:transparent url(/images/evo/features/website.png) no-repeat top left;
+}
+
+#rotator #fragment-4 {
+ background:transparent url(/images/evo/features/network.png) no-repeat top right;
+}
+
+/* Additional CSS for user comments block */
+#user_comments, #user_comments li{
+ margin:0;
+ padding:0;
+ list-style:none;
+ background:transparent url(/images/evo/features/user_comments.png) no-repeat center;
+}
+#user_comments{
+ width:150px;
+ height:100px;
+ font-size:10px;
+ font-style: italic;
+ line-height:100%;
+}
+#user_comments li{
+ padding:20px;
+ background:none;
+ display:none; /* hide the items at first only */
+}
+#user_comments li p{
+ background:none;
+ font-weight:bold;
+ font-style: normal;
+ text-align:right;
+}

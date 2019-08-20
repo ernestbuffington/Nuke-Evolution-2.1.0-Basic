@@ -1,0 +1,10 @@
+Este es un ejemplo de lo que puede agregar en este archivo de texto. Puede agregar nada que le gusta, al igual que un documento HTML normal. Poner en vinculos, romper espacios, tablas, etc.. No se preocupe por cotizaciones o punto y coma. Tipo justo lo que desea, guardarla, cargarlo, y tendra su custom sobre nosotros pagina. Borrar todos esta informacion y escriba en lo que quiera.<br />
+Usted puede encontrar este archivo esta ubicado en modules/Docs/documents/<br /><br />
+<strong>Aviso legal</strong><br />
+Este sitio es publicado por:<br /><br />
+Su nombre,<br />
+Direccion<br />
+Telefono: 0123 - 45678<br />
+Fax: 0123 - 45679<br />
+Celular: 0177 - 123456<br />
+Correo<br />
